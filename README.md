@@ -1,6 +1,6 @@
 # 🇱🇰 Automated Itinerary Generator for Sri Lanka
 
-A sophisticated AI-powered travel planning system that creates personalized itineraries for Sri Lanka based on user preferences, multi-layered scoring algorithms, and practical travel optimization.
+A sophisticated travel planning system that creates personalized itineraries for Sri Lanka based on user preferences, multi-layered scoring algorithms, and practical travel optimization.
 
 ## 📋 Table of Contents
 
